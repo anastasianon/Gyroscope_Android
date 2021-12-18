@@ -1,2 +1,2 @@
-# RecyclerViewAndroid
-<img src="recyclerAndroid.gif" alt="video demo" height="600"/>
+# Gyroscope_Android
+<img src="Gyroscope.gif" alt="video demo" height="600"/>
