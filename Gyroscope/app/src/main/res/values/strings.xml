@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Gyroscope</string>
+    <string name="xOutputText">X: %1$s</string>
+    <string name="yOutputText">Y: %1$s</string>
+    <string name="zOutputText">Z: %1$s</string>
+</resources>
